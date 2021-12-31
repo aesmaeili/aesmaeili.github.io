@@ -1,0 +1,7 @@
+- Make changes to the files you want
+- compile the changes by running jekyll serve 
+- cd _sites
+- git add .
+- git commit -m "The update message"
+- git push -u origin master
+
