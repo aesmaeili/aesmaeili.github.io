@@ -1,5 +1,6 @@
 User-agent: *
 Disallow: http://localhost:4000/assets/
-Disallow:
+Disallow: /assets/
 
 Sitemap: http://localhost:4000/sitemap.xml
+
